@@ -1,1 +1,2 @@
 # Das-Damen-Problem
+Das Damenproblem ist ein klassisches Beispiel eines nicht-deterministischen polynomials (NP) Problems, das darin besteht, eine Anzahl von Damen auf einem Schachbrett so zu platzieren, dass keine Dame die andere angreifen kann. Eine mögliche Lösung für das Damenproblem in Python könnte ein Rücktritts-Algorithmus sein. Hier ist ein Beispiel für eine Funktion, die eine Lösung für das Damenproblem mit einer bestimmten Größe des Schachbretts findet.
